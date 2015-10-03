@@ -1,5 +1,7 @@
 # bower.io
 
+[![Join the chat at https://gitter.im/t9nf/bower.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/t9nf/bower.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Documentation for [Bower](http://bower.io)
 
 Site is built with [Jekyll](http://jekyllrb.com) and served with GitHub Pages.
